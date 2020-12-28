@@ -3,7 +3,7 @@ title:               Matt Didcoe
 tagline:             'A Jekyll theme'
 description:         ''
 url:                 https://mattman.github.io
-baseurl:             'https://mattman.github.io'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
